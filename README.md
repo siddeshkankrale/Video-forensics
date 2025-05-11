@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # video-forensics
 VidGuard is a forensic tool for verifying the integrity and authenticity of video files. It extracts key metadata, calculates a unique MD5 hash to detect tampering, and analyzes frames for any alterations. VidGuard is ideal for digital forensics, surveillance, compliance auditing, and media verification.
 
+=======
+# Video-forensics
+VidGuard is a forensic tool for verifying the integrity and authenticity of video files. It extracts key metadata, calculates a unique MD5 hash to detect tampering, and analyzes frames for any alterations. VidGuard is ideal for digital forensics, surveillance, compliance auditing, and media verification.
+>>>>>>> d660f5f68ef491b0391c9a70887cd2b0f527b902
 Features Metadata Extraction: Retrieves essential video metadata, including frame count, resolution, and FPS.
 
 File Integrity Check: Calculates an MD5 hash to verify the file’s authenticity.
@@ -18,3 +23,7 @@ Example Output json Copy code { "metadata": { "frame_count": 500, "frame_width":
 Applications Digital Forensics: Verifying video evidence authenticity. Security Surveillance: Checking footage consistency for tampering. Compliance Auditing: Ensuring unaltered video logs in sensitive environments.
 
 Media Verification: Detecting deepfakes or video modifications.
+<<<<<<< HEAD
+=======
+
+>>>>>>> d660f5f68ef491b0391c9a70887cd2b0f527b902
