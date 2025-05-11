@@ -1,0 +1,16 @@
+[server]
+port = 8501
+address = "localhost"
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+serverAddress = "localhost"
+serverPort = 8501
+
+[theme]
+primaryColor = "#0066cc"
+backgroundColor = "#f0f2f6"
+secondaryBackgroundColor = "#e0e2e6"
+textColor = "#262730"
+font = "sans serif"
